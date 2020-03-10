@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './components/root/App/App';
+import App from './pages/App/App';
 import 'semantic-ui-css/semantic.min.css';
 /* Font Css */
 import './fonts/FontFile.css';
