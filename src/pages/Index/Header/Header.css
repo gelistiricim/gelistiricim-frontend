@@ -1,0 +1,7 @@
+.headerRow{
+    height: 70px;
+    padding: 1rem 0 !important;
+    background: rgba(33,33,33,.95);
+    color: white;
+    z-index: 2;
+}
